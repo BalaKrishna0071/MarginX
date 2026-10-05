@@ -1,0 +1,13 @@
+# --- Frontend ---
+frontend/node_modules
+frontend/package.json
+frontend/package-lock.json
+
+
+# --- Backend ---
+backend/.venv
+backend/.idea
+backend/logs
+backend/test.py
+
+
